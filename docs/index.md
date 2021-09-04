@@ -1,5 +1,6 @@
 ---
 title: 自修祭
+description: 自修祭HP
 ---
 # ようこそ、自修祭HPへ
 
