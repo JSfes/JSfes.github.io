@@ -9,6 +9,8 @@ theme:
     palette:
         scheme: preference
         primary: white
+        # primary: red
+        # primary: blue
         accent: green
     font:
         text: Noto Sans
