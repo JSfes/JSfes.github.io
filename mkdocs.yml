@@ -8,9 +8,9 @@ theme:
     name: material
     palette:
         scheme: preference
-        primary: white
+        # primary: white
         # primary: red
-        # primary: blue
+        primary: blue
         accent: green
     font:
         text: Noto Sans
