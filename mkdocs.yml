@@ -15,8 +15,8 @@ theme:
     font:
         text: Noto Sans
     language: ja
-    logo: img/favicon.png
-    favicon: img/favicon.png
+    # logo: img/favicon.png
+    # favicon: img/favicon.png
     icon:
         repo: fontawesome/brands/github
     features:
