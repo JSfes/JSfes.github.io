@@ -11,3 +11,4 @@ description: 自修祭HP
 
 <img src="/img/1.PNG" width="40%" alt="ポスター1">
 <img src="/img/2.PNG" width="40%" alt="ポスター2">
+
